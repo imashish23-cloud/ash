@@ -1,5 +1,5 @@
 import { useRef, useState } from "react";
-import { AlertCircle, CheckCircle2, FileSpreadsheet, Link2, Loader2, UploadCloud } from "lucide-react";
+import { CircleAlert as AlertCircle, CircleCheck as CheckCircle2, FileSpreadsheet, Link2, Loader as Loader2, CloudUpload as UploadCloud } from "lucide-react";
 import {
   Dialog,
   DialogContent,

@@ -1,4 +1,4 @@
-import { AlertTriangle, CheckCircle2, ShieldAlert } from "lucide-react";
+import { TriangleAlert as AlertTriangle, CircleCheck as CheckCircle2, ShieldAlert } from "lucide-react";
 import { useDashboard } from "@/components/DashboardProvider";
 import { Section } from "@/components/ui-bits";
 import { cn } from "@/lib/utils";

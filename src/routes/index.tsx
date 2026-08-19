@@ -1,6 +1,6 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { useState } from "react";
-import { Loader2 } from "lucide-react";
+import { Loader as Loader2 } from "lucide-react";
 import { DashboardProvider, useDashboard } from "@/components/DashboardProvider";
 import { DashboardHeader } from "@/components/DashboardHeader";
 import { KPIGrid } from "@/components/KPIGrid";
